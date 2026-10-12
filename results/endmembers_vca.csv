@@ -1,0 +1,11 @@
+endmember,row,col,best_match,library_sample,angle_rad,confident
+1,421,486,Chalcedony,splib07a_Chalcedony_CU91-6A_BECKa_AREF,0.7013,False
+2,0,2,Muscovite,splib07a_Muscovite_HS146.4B_ASDFRa_AREF,0.6458,False
+3,261,458,Jarosite,splib07a_Jarosite_WS368_(Pb)_BECKc_AREF,0.6034,False
+4,250,243,Montmorillonite,splib07a_Montmorillonite_SCa-2.a_BECKb_AREF,0.3027,True
+5,438,195,Muscovite,splib07a_Muscovite_GDS113_Ruby_ASDNGa_AREF,0.2397,True
+6,255,199,Muscovite,splib07a_Muscovite_GDS107_BECKa_AREF,0.4816,True
+7,311,140,Muscovite,splib07a_Muscovite_GDS113a_Ruby_ASDNGa_AREF,0.4702,True
+8,275,179,Calcite,splib07a_Calcite_CO2004_BECKb_AREF,0.0497,True
+9,59,202,Jarosite,splib07a_Jarosite_WS368_(Pb)_BECKc_AREF,0.7032,False
+10,360,118,Muscovite,splib07a_Muscovite_GDS108_BECKb_AREF,0.223,True

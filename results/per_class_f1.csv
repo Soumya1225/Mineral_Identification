@@ -1,0 +1,10 @@
+mineral,test_pixels,f1_3dcnn,f1_random_forest
+Alunite,2603,0.922,0.883
+Calcite,10388,0.994,0.904
+Chalcedony,598,0.803,0.339
+Dickite,143,0.288,0.272
+Halloysite,119,0.227,0.159
+Jarosite,316,0.651,0.394
+Kaolinite,166,0.207,0.252
+Montmorillonite,18,0.0,0.0
+Muscovite,9348,0.966,0.933

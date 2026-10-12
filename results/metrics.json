@@ -1,0 +1,40 @@
+{
+  "labels": "SAM against the USGS library, angle <= 0.4 rad (reference map, not field truth)",
+  "split": "spatial: 4 of 16 blocks held out, 4-pixel buffer",
+  "classes": [
+    "Alunite",
+    "Calcite",
+    "Chalcedony",
+    "Dickite",
+    "Halloysite",
+    "Jarosite",
+    "Kaolinite",
+    "Montmorillonite",
+    "Muscovite"
+  ],
+  "train_pixels": 14417,
+  "test_pixels": 23699,
+  "pca_components": 30,
+  "patch": 9,
+  "epochs": 15,
+  "results": [
+    {
+      "model": "3D-CNN (spatial split)",
+      "overall_accuracy": 0.9434,
+      "kappa": 0.9125,
+      "macro_f1": 0.5621
+    },
+    {
+      "model": "Random Forest (spatial split)",
+      "overall_accuracy": 0.8413,
+      "kappa": 0.7681,
+      "macro_f1": 0.4594
+    },
+    {
+      "model": "Random Forest (random pixel split - inflated)",
+      "overall_accuracy": 0.9275,
+      "kappa": 0.895,
+      "macro_f1": 0.5713
+    }
+  ]
+}

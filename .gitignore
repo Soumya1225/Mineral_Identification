@@ -1,0 +1,12 @@
+Datasets/AVIRIS_Cuprite/
+Datasets/USGS_Spectral_Library/
+Datasets/Sentinel2/
+Datasets/processed/
+*.tar
+*.npy
+__pycache__/
+.venv/
+venv/
+_backups/
+Datasets/Cuprite_Benchmark/
+_updates/

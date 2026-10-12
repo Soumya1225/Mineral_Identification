@@ -1,0 +1,8 @@
+{
+  "dataset": "Cuprite benchmark (250x190, 188 bands, 12 ground-truth minerals)",
+  "method": "VCA",
+  "runs": 10,
+  "mean_sad_rad": 0.2225,
+  "std_over_runs": 0.03,
+  "best_run_mean_sad": 0.153
+}

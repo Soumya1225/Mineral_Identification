@@ -1,0 +1,4 @@
+model,overall_accuracy,kappa,macro_f1
+3D-CNN (spatial split),0.9434,0.9125,0.5621
+Random Forest (spatial split),0.8413,0.7681,0.4594
+Random Forest (random pixel split - inflated),0.9275,0.895,0.5713

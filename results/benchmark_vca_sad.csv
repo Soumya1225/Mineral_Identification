@@ -1,0 +1,13 @@
+mineral,sad_mean_rad,sad_std,sad_best_run
+#1 Alunite,0.0927,0.0079,0.0859
+#2 Andradite,0.0802,0.0164,0.0754
+#3 Buddingtonite,0.0934,0.0214,0.0888
+#4 Dumortierite,0.1751,0.2605,0.076
+#5 Kaolinite_1,0.0917,0.0103,0.0848
+#6 Kaolinite_2,0.0798,0.0171,0.0852
+#7 Muscovite,0.0898,0.0041,0.0923
+#8 Montmorillonite,0.066,0.0086,0.0603
+#9 Nontronite,0.0846,0.011,0.0844
+#10 Pyrope,0.6148,0.4023,0.1717
+#11 Sphene,0.434,0.45,0.8369
+#12 Chalcedony,0.768,0.446,0.0945
